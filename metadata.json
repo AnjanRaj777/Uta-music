@@ -1,0 +1,7 @@
+{
+  "name": "Uta - Ad-Free Music Experience",
+  "description": "A modern, sleek music player powered by the YouTube Data API, featuring a gorgeous Coverflow interface and ad-free playback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
